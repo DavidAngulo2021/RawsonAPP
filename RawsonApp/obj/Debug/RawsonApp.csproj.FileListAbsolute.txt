@@ -1,0 +1,10 @@
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\bin\Debug\RawsonApp.exe.config
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\bin\Debug\RawsonApp.exe
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\bin\Debug\RawsonApp.pdb
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.csproj.AssemblyReference.cache
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.Form1.resources
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.Properties.Resources.resources
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.csproj.GenerateResource.cache
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.csproj.CoreCompileInputs.cache
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.exe
+C:\Users\DAVID DANIEL\source\repos\RawsonApp\RawsonApp\obj\Debug\RawsonApp.pdb
